@@ -1,0 +1,69 @@
+body {
+  background: MediumOrchid;
+}
+
+
+.Triana {
+  color: LightSalmon;
+  font-size: 45px;
+}
+
+video {
+  font: 40px 10px 12px 60px;
+  margin: -5px;
+  padding: 50px 50px 60px 400px;
+  display: center;
+  height: 400px;
+  width: 40%;
+}
+
+.fancy {
+  display: inline-block;
+  background: orange;
+  color: white;
+  padding: 18px;
+  font-size: 18px
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+}
+
+.flexbox-wrapper {
+  background: DarkOrchid;
+  display: flex;
+  height: 100px;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-between;
+}
+
+p {
+  Border: solid orange;
+  font: 40px 10px 12px 60px;
+  margin: 10px;
+  padding: 10px 10px 10px 300px;
+  Border: solid black;
+  font: 40px 10px 12px 60px;
+  margin: 10px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+ul {
+  Border: solid orange;
+  font: 40px 10px 12px 60px;
+  margin: 10px;
+  padding: 10px 10px 10px 300px;
+  font-family: 'Roboto Slab', serif;
+}
+
+ol {
+  Border: solid orange;
+  font: 40px 10px 12px 60px;
+  margin: 10px;
+  padding: 10px 10px 10px 300px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
